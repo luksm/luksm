@@ -13,6 +13,7 @@ Mashing a React + GraphQL stack together to conjure a websites @ Verint
 ### 📫 How to reach me
 
 [Linkedin](https://www.linkedin.com/in/luksm/)
+[Blog](https://luksm.github.io/)
 
 <!--
 **luksm/luksm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
